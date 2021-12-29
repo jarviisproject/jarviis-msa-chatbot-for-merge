@@ -1,0 +1,599 @@
+Q,intent,label
+날씨 알려주겠니,weather,0
+날씨 정보 알려주세요,weather,0
+그때 기온 어떨까,weather,0
+그때 기온 좋으려나,weather,0
+기온 어떨것 같은데,weather,0
+기온 어때,weather,0
+기온 말 해줄래,weather,0
+기온 어떠니,weather,0
+구름 많이 꼈나,weather,0
+기온 어떠냐,weather,0
+야 기온 어때,weather,0
+날씨 맑을까,weather,0
+내일 날씨 덥냐,weather,0
+모레 날씨 흐리냐,weather,0
+오늘 우산 써야 할까,weather,0
+오늘 날씨 흐리냐,weather,0
+날씨 덥냐,weather,0
+오늘 날씨 맑니,weather,0
+내일 날씨 덥냐,weather,0
+어떤데 날씨,weather,0
+날씨 어떤데,weather,0
+서울 날씨 덥냐,weather,0
+내일 습도 어때,weather,0
+습도 어떠냐,weather,0
+날씨 정보 알려줘봐,weather,0
+날씨 어떠냐,weather,0
+내일 기온 어때,weather,0
+내일 구름 많아,weather,0
+내일 하늘 어때,weather,0
+내일 맑을까,weather,0
+모레 기온 떨어져,weather,0
+기온이 떨어질까,weather,0
+기온이 올라갈까,weather,0
+날씨,weather,0
+날씨 알려주삼,weather,0
+날씨 좀 알려줘,weather,0
+내일 추울까,weather,0
+오늘 추워,weather,0
+패딩 입어야 할까,weather,0
+코트 입어야 할까,weather,0
+비 오는지 알려줄레,weather,0
+비 와,weather,0
+눈이 올까,weather,0
+오늘 눈이 올까,weather,0
+눈이 얼마나 올까,weather,0
+비가 얼마나 올까,weather,0
+날씨가 흐릴까,weather,0
+비 오는지 말해 줘봐,weather,0
+눈 올지 알려주세요,weather,0
+날씨 좀 알려주세요,weather,0
+날씨 좀 알려 줄 수 있니,weather,0
+비 오냐,weather,0
+눈 오냐,weather,0
+날씨 좀 알려줘봐,weather,0
+날씨 어때,weather,0
+구름 어때,weather,0
+눈 오는지 알려줘봐,weather,0
+눈 오는지 알려줘,weather,0
+눈 옵니까,weather,0
+비 옵니까,weather,0
+비 오는지 알려줘봐,weather,0
+비 오는지 알려줘라,weather,0
+날씨 좀 알려줘봐,weather,0
+비 오는지 알려 줄 수 있니,weather,0
+날씨가 눈이 올까,weather,0
+날씨가 비가 올까,weather,0
+먼지가 어때,weather,0
+구름 많음,weather,0
+구름 적음,weather,0
+오늘 날씨 좀 알려줘,weather,0
+오늘 날씨 좀 알려줘봐,weather,0
+눈 올지 말해 줘라,weather,0
+눈 올지 알려 줘,weather,0
+비 올지 알려 줘,weather,0
+비 올지 알려 줘봐,weather,0
+날씨 정보,weather,0
+날씨 어떤지 알려줘봐,weather,0
+날씨 어떤지 말해줘,weather,0
+날씨 뭔데,weather,0
+눈 올지 알려줘,weather,0
+비 올지 알려주세요,weather,0
+비 오는지 알려 줘 주세요,weather,0
+눈 오냐고,weather,0
+비 오냐고,weather,0
+날씨 어떠냐,weather,0
+구름 정보 알려줘,weather,0
+비 정보 알려줘,weather,0
+눈 정보 알려줘,weather,0
+날씨가 추워질까요,weather,0
+날씨가 덥니,weather,0
+날씨가 더워지니,weather,0
+날씨가 더워질까요,weather,0
+날씨 더워,weather,0
+날씨 추워,weather,0
+날씨가 추워 질까,weather,0
+날씨가 추워지니,weather,0
+날씨가 추워지나요,weather,0
+날씨는 어떨까,weather,0
+날씨 정보,weather,0
+우산이 필요할까,weather,0
+우산 필요해,weather,0
+옷차림 어떻게 해야될까,weather,0
+옷을 어떻게 입어야 할까,weather,0
+날씨는 눈이 와,weather,0
+눈이 올까요,weather,0
+비가 올까 봐줄래,weather,0
+비가 오는 지 봐줄래,weather,0
+패딩 입을 날씨 야,weather,0
+패딩을 입어야 할까,weather,0
+비가 오는지 봐줄 수 있어,weather,0
+비가 올 수 있을까,weather,0
+내일 날씨 눈이 올까,weather,0
+내일 날씨 비가 올까,weather,0
+내일 눈이 오는 지 바줄 수 있어,weather,0
+모레 날씨 오는지 알 수 있을까,weather,0
+강남구 날씨 어때,weather,0
+날씨 어떤지 알수 있어,weather,0
+날씨가 어떤지 알려줘봐,weather,0
+우산을 써야하나,weather,0
+날씨가 추울까,weather,0
+날씨가 더울까,weather,0
+날씨가 맑아질까,weather,0
+날씨가 흐려질까,weather,0
+하늘이 흐려질가,weather,0
+구름이 많아 질까,weather,0
+구름 많어,weather,0
+하늘이 흐려질까,weather,0
+동네 날씨 좀 알려줄래,weather,0
+동네 날씨,weather,0
+이봐 날씨 좀 알려줄래,weather,0
+어이 날씨 좀 알려줘,weather,0
+이봐 날씨 어떤데,weather,0
+야 내일 날싸가 어떨까,weather,0
+그러면 내일 날씨 좀 알려줄래,weather,0
+야 내일 비가 올까,weather,0
+내가 내일 친구를 만나는데 날씨 좀 알려줄래,weather,0
+내일 병원을 가는데 우산을 챙겨가야 할까,weather,0
+병원가는데 날씨가 어때,weather,0
+11월 11일 날씨가 어떨까,weather,0
+12월 25일 날씨가 어떨까,weather,0
+날씨가 어떨거 같아,weather,0
+날씨가 어떠니,weather,0
+친구 만나는데 날씨 좀 알려줘,weather,0
+야 날씨 어때,weather,0
+내일 모레 약속인데 날씨 좀 추천해봐,weather,0
+오늘 등산 가는데 날씨 어때,weather,0
+운동 갈까 하는데 날씨 어때,weather,0
+밖에 추워,weather,0
+밖에 더워,weather,0
+친구들이랑 등산 가는데 날씨 어때,weather,0
+축구 할껀데 날씨 어떠니,weather,0
+산책 할건데 날씨 어때,weather,0
+오늘 놀러 가는데 날씨 어떠니,weather,0
+내일 놀러 갈까 하는데 날씨 어때,weather,0
+11월 25일 놀러 가는데 날씨 어때,weather,0
+모레 날씨 어때 놀려가는데,weather,0
+여자친구랑 데이트 가는데 날씨 어때,weather,0
+데이트 가는데 날씨 어떨까,weather,0
+크리스마스때 놀러 가는데 날씨 어때,weather,0
+스키장 가는데 날씨 어때,weather,0
+놀이공원 가는데 날씨 어때,weather,0
+서울랜드 놀러 가는데 날씨 어때,weather,0
+에버랜드 놀러 갈까 하는데 날씨 어떠니,weather,0
+피크닉을 가는데 날씨가 어때,weather,0
+데이트 가는데 날씨가 어떨까,weather,0
+오늘 가족끼리 가는데 날씨가 어때,weather,0
+날씨가 어떨까,weather,0
+9월 25일 날씨 어때,weather,0
+야 날씨 좀 말해봐,weather,0
+날씨가 어떨거 같은지 말 좀 해줄래,weather,0
+날씨가 흐릴까 밝을까,weather,0
+너의 동네 날씨는 어때,weather,0
+날씨가 너무 좋은데,weather,0
+날씨 내일 좋아,weather,0
+무슨 날씨가 이래,weather,0
+내일 모레 날씨 좀,weather,0
+여자친구가 강남 사는데 날씨가 어떨까,weather,0
+날씨 좀 말해줘,weather,0
+눈이 올까 비가 올까,weather,0
+비가 많이 오니 적게 와,weather,0
+내일 눈이 많이 와 ,weather,0
+내일 비가 많이 오니,weather,0
+모레 눈이 많이 오니,weather,0
+모레 비가 많이 오니,weather,0
+눈이 얼마나 쌓일거 같아,weather,0
+눈싸움하고 싶다 눈이 많이 올까,weather,0
+내일 등산가는데 비가 많이 올까,weather,0
+나의 동네 날씨 어때,weather,0
+부모님이 오신는데 날씨 어떨까,weather,0
+친구가 놀러 온다는데 날씨가 어떨까,weather,0
+서울 날씨 어때,weather,0
+부산 날씨 어때,weather,0
+대구 날씨 어때,weather,0
+제주도 여행 가는데 날씨 어때,weather,0
+태풍이 언제까지야,weather,0
+호우주의보가 언제 까지야,weather,0
+비가 오는데 홍수가 날까,weather,0
+눈이 오는데 얼마나 쌓일거 같아,weather,0
+추천 목록 좀 보여줄래,suggestion,1
+추천 목록,suggestion,1
+나의 대한 추천 좀 보여줘,suggestion,1
+내꺼 추천 목록 뭐 있어,suggestion,1
+개발자 자격증 좀 알려줄래,suggestion,1
+추천 목록 보여줘,suggestion,1
+이번 달 추천 좀 보여줄래,suggestion,1
+저번 달 추천 좀 보여줘,suggestion,1
+야 나의 추천,suggestion,1
+자격증 추천 목록 좀 보여줄래,suggestion,1
+맛집 추천 좀 알려줘,suggestion,1
+다이어트 추천 목록,suggestion,1
+개발자 추천 목록,suggestion,1
+개발자 자격증 추천 목록,suggestion,1
+다이어트 음식 뭐가 괜찬을까,suggestion,1
+다이어트 음식 추천 ,suggestion,1
+나의 대한 추천 목록 좀 보여줘,suggestion,1
+추천 리스트 좀 보여줄래,suggestion,1
+추천 목록 좁 보여줘,suggestion,1
+자격증 뭘 따면 될까,suggestion,1
+내가 개발자되고 싶은데 뭐해야 될까,suggestion,1
+난 다이어트가 목표야,suggestion,1
+친구들이랑 맛집 갈려 하는데 추천 좀,suggestion,1
+제주도 여행 가는데 추천 좀,suggestion,1
+오늘 내가 여행 갈 수 있는데 추천 좀,suggestion,1
+드라이브 경로 추천 좀,suggestion,1
+내가 다음주에 시험 볼까 하는데 시험 일정 좀,suggestion,1
+다이어트 음식 좀 추천해 줄래,suggestion,1
+개발자는 어떤 걸 준비 해야 해,suggestion,1
+개발 추천 리스트 좀,suggestion,1
+개발자를 공부하고 싶은데 어떤 걸 준비해야 할까,suggestion,1
+난 파이썬 개발자가 되고 싶은데 뭘 준비 할까,suggestion,1
+난 자바 개발자가 되고 싶어 뭘 준비 해야되,suggestion,1
+자바 교육 일정 알려줘,suggestion,1
+나의 추천 목록 보여줘,suggestion,1
+내꺼 추천 목록 좀 보여줄래,suggestion,1
+추천 목록 보여줘,suggestion,1
+나의 대한 추천 목록 좀 보여줄래,suggestion,1
+다이어트 추천 목록,suggestion,1
+개발자 추천 목록,suggestion,1
+여행지 추천 좀 보여줘,suggestion,1
+개발자가 꿈인데 뭘 해야 될까 ,suggestion,1
+이번 달 추천 목록 좀 보여줄래,suggestion,1
+다음 달 추천 목록 좀 보여줄래,suggestion,1
+오늘의 추천 목록 보여줘,suggestion,1
+개발자 추천 해줘,suggestion,1
+자바 개발자 추천 목록,suggestion,1
+프론트 앤드 추천 목록,suggestion,1
+서버개발자 추천 목록 보여줘,suggestion,1
+난 서버 개발자가 되고 싶은데 추천 목록 좀,suggestion,1
+자격증 추천 해줄만 한거 있나,suggestion,1
+자격증 추천,suggestion,1
+개발자 추천 목록 좀 보여줘,suggestion,1
+개발자가 되기위해선 뭐가 필요해,suggestion,1
+다이어트 음식 추천 해줘,suggestion,1
+살을 빼고 싶은데 방법 추천 좀 해줘,suggestion,1
+내가 다이어트를 시작 할 건데 추천 좀 해줘,suggestion,1
+개발자가 되고 싶어,suggestion,1
+자격증 추천 목록 좀 보여줘,suggestion,1
+야 자격증 추천 뭐해야되,suggestion,1
+자격증은 뭘 따야 좋을까,suggestion,1
+개발자 교육 일정은 뭐가 잇어,suggestion,1
+나에 대한 추천 목록 보여줘,suggestion,1
+장인성 추천 목록 보여줘,suggestion,1
+개발자 추천 목록,suggestion,1
+부모님이랑 맛집 가고 싶은데 추천 해불만 한거 있어,suggestion,1
+여자친구가 개발자가 되고 싶다는데 추천 해줄만 한거 있어,suggestion,1
+자격증은 뭘 공부해야 좋을까,suggestion,1
+다이어트는 어떻게 하면 좋을까,suggestion,1
+다이어트 운동 방법 추천해줘,suggestion,1
+내가 다이어트 하는데 다이어트 음식 추천해줘,suggestion,1
+다이어트는 어떻게 하면 좋을까,suggestion,1
+다이어트 운동 좀 알려줘,suggestion,1
+나의 추천 리스트,suggestion,1
+추천 목록 리스트 보여줘,suggestion,1
+나만의 추천 리스트 보여줘,suggestion,1
+나의 추천 목록 보여줘,suggestion,1
+다이어트 추천 목록 보여줘,suggestion,1
+개발자는 뭘 해야 좋아,suggestion,1
+개발자 추천 리스트 보여줘,suggestion,1
+개발자가 될려면 필요한 자격증 보여줘,suggestion,1
+개발자가 될려면 필요한 교육일정 보여줘,suggestion,1
+자바 교육일정 알려줘,suggestion,1
+파이썬 교육 일정 알려줘,suggestion,1
+자바 스크립트 교육 일정 알려줘,suggestion,1
+정보처리기사 시험 일정 알려줘,suggestion,1
+컴퓨터활용능력 시험 일정 알려줘,suggestion,1
+자격증 추천 목록,suggestion,1
+교육 일정 추천 목록,suggestion,1
+친구랑 여행을 가는데 추천 할만 한거 있어,suggestion,1
+친구랑 같이 개발자를 목표로 하고 싶은데 뭘 해야 될까,suggestion,1
+야 추천 목록 보여줘,suggestion,1
+어이 추천 목록,suggestion,1
+이봐 나 추천 목록 보여줘,suggestion,1
+내 추천 목록 뭐야,suggestion,1
+추천 리스트가 어떻게 있을까,suggestion,1
+야 개발자 추천 리스트 보여줘,suggestion,1
+추천 리스트 보여주길 바래,suggestion,1
+자격증 추천 목록 보여줘,suggestion,1
+내꺼 추천 리스트 보여줘,suggestion,1
+추천 목록 좀 보여줄래,suggestion,1
+추천 목록,suggestion,1
+나의 대한 추천 좀 보여줘,suggestion,1
+내꺼 추천 목록 뭐 있어,suggestion,1
+개발자 자격증 좀 알려줄래,suggestion,1
+추천 목록 보여줘,suggestion,1
+이번 달 추천 좀 보여줄래,suggestion,1
+저번 달 추천 좀 보여줘,suggestion,1
+야 나의 추천 알려줘,suggestion,1
+자격증 추천 목록 좀 보여줄래,suggestion,1
+맛집 추천 좀 알려줘,suggestion,1
+다이어트 추천 목록,suggestion,1
+개발자 추천 목록,suggestion,1
+개발자 자격증 추천 목록,suggestion,1
+다이어트 음식 뭐가 괜찬을까,suggestion,1
+다이어트 음식 추천 ,suggestion,1
+나의 대한 추천 목록 좀 보여줘,suggestion,1
+추천 리스트 좀 보여줄래,suggestion,1
+추천 목록 좁 보여줘,suggestion,1
+자격증 뭘 따면 될까,suggestion,1
+내가 개발자되고 싶은데 뭐해야 될까,suggestion,1
+난 다이어트가 목표야,suggestion,1
+개발자 자격증은 무엇을 준비해야되,suggestion,1
+제일 빠르게 할 수 있는 자젹증 좀 추천해줘,suggestion,1
+빠르게 딸 수 있는 자격증은 뭐야,suggestion,1
+개발자가 되고 싶은데 제일 쉬운 자젹증이 뭔지 알려줘,suggestion,1
+개발자 추천 목록 보여줘,suggestion,1
+운동 추천 목록 보여줘,suggestion,1
+다이어트 음식 추천 목록 보여줘,suggestion,1
+어떤 음식이 다이어트에 도움이 될까,suggestion,1
+어떤 자격증이 개발자에 도움이 될까,suggestion,1
+어이 추천 리스트 보여줘,suggestion,1
+이봐 추천 리스트 보여줘봐,suggestion,1
+나의 대한 맞춤 추천 리스트 보여줘,suggestion,1
+추천 목록이 뭐가 있을까,suggestion,1
+이번달에 시행하는 자격증이 무엇이 있을까,suggestion,1
+운동 패턴 추천 좀 해줘,suggestion,1
+다이어트 생활 패턴 추천 해줘,suggestion,1
+개발자는 무엇을 준비해야되,suggestion,1
+개발자을 이루기 위해선 어떤 걸 준비 해야 될까,suggestion,1
+개발자에 도움되는 자격증 추천 해줘,suggestion,1
+다이어트에 도움 되는 음식이 뭐가 있을까,suggestion,1
+나의 추천 목록 보여줘,suggestion,1
+내 추천 목록 보여줘,suggestion,1
+내꺼 추천 목록 좀 보여줘,suggestion,1
+다이어트 추천 리스트 보여줘,suggestion,1
+개발자 추천 리스트 보여줘,suggestion,1
+칼로리가 낮은 음식 추천 해줘,suggestion,1
+자바 교욱 일정 좀 추천 해줘,suggestion,1
+파이썬 교육 일정 좀 추천 해줘,suggestion,1
+자바 스크립트 교육 일정 좀 추천 해줘,suggestion,1
+개발자 강의 좀 알려줘,suggestion,1
+다이어트 교육 프로그램 좀 알려줄래,suggestion,1
+나에게 맞는 교육일정 좀 추천 해줘,suggestion,1
+이 날씨엔 무엇을 하면 좋을까,suggestion,1
+내 추천 리스트 보여줘,suggestion,1
+자격증 추천,suggestion,1
+다이어트 추천,suggestion,1
+자격증 목록,suggestion,1
+어이 자격증 뭐가 좋아,suggestion,1
+자격증 어떤 걸 따야 좋아,suggestion,1
+서버 개발자가 갖고 있어야 할 자격증은 뭐가 있어,suggestion,1
+어떤 자격증을 준비해야 할까,suggestion,1
+다이어트는 어떻게 해야 될까,suggestion,1
+이봐 개발자 자격증 추천 좀 해줄래,suggestion,1
+자바 개발자 자격증 추천,suggestion,1
+데이터베이스 개발자 자격증 추천,suggestion,1
+데이터베이스 개발자가 되고 싶어,suggestion,1
+따기 쉬운 자격증 좀 추천 해줄래,suggestion,1
+내 수준에 맞는 자격증 추천 해줘,suggestion,1
+지금 지원 할 수 있는 자격증 추천해줘,suggestion,1
+자격증은 어떤 걸 따야 좋을까,suggestion,1
+다이어트는 어떻게 해야 좋아,suggestion,1
+자격증 리스트 보여줘,suggestion,1
+나의 자격증 리스트 보여줘,suggestion,1
+추천 목록 어떤게 있어,suggestion,1
+나의 추천 목록 좀 보여줘,suggestion,1
+나에 대한 추천 목록 보여줄래,suggestion,1
+개발자 교육 일정 좀 보여줄래 ,suggestion,1
+다어트에 도움 될 만한 프로그램이 있을까,suggestion,1
+개발자에 대한 추천 보여줘,suggestion,1
+추천 목록 보여줘,suggestion,1
+추천 리스트 보여줄래,suggestion,1
+나에 대한 추천 리스트,suggestion,1
+나의 추천 목록,suggestion,1
+나의 대한 추천 목록,suggestion,1
+개발자 추천 목록 보여줄래,suggestion,1
+야 나의 추천 목록 보여줘봐,suggestion,1
+야 내꺼 추천 리스트 보여줘,suggestion,1
+내꺼 추천 목록 뭐있어,suggestion,1
+나의 추천은 어떤게 있어,suggestion,1
+추천 목록 어떤게 있냐,suggestion,1
+어떤 추천이 있어,suggestion,1
+추천 리스트,suggestion,1
+추천 목록,suggestion,1
+이번달 추천 목록 보여줘,suggestion,1
+이번주 추천 목록 보여줘,suggestion,1
+다음달 추천 뭐가 있을까,suggestion,1
+이번년도 추천 뭐가 있을까,suggestion,1
+오늘 일정 좀 알려줘,todo,2
+이번주 일정 중 중요한거 알려줘,todo,2
+내일 일정이 어떻게 될까,todo,2
+오늘 일정 좀 알려줄래,todo,2
+오늘 일정 보여줘,todo,2
+내일 일정 보여줘,todo,2
+모레 일정 보여줘,todo,2
+이번주 일정 보여줘,todo,2
+수요일 일정 좀 보여줄래,todo,2
+화요일 일정 좀 보여줄래,todo,2
+금요일 일정 좀 보여줄래,todo,2
+목요일 일정 좀 보여줄래,todo,2
+월요일 일정 좀 보여줄래,todo,2
+일요일 일정 좀 보여줄래,todo,2
+내일 모레 일정 좀 알려줘,todo,2
+나 내일 무슨 일정이 있어,todo,2
+내일 일정 뭐 있는지 알려줄래,todo,2
+이번주 일정이 어떻게 되,todo,2
+오늘 내가 할 일 좀 알려줘,todo,2
+오늘 할 일,todo,2
+오늘 내가 할 일,todo,2
+오늘의 일정,todo,2
+내일 일정 어때,todo,2
+오늘 할 일 알려줘,todo,2
+내가 오늘 해야 할 일은 뭐가 있어,todo,2
+내일 내가 해야되는 일이 뭐야,todo,2
+오늘 내가 할 일,todo,2
+오늘 일정,todo,2
+내일 내가 약속이 뭐가 있지,todo,2
+오늘 나의 약속 좀 알려줘,todo,2
+오늘 나의 일정 좀 알려줘,todo,2
+오늘 점심에 나는 뭘 해야되,todo,2
+오늘 저녁에 어디 가야되,todo,2
+오늘 어떤 일정이 있니,todo,2
+내가 내일 어디를 가야되니,todo,2
+이번주 일정 중에 비트캠프를 언제 갔지,todo,2
+내일 비트캠프 몇시에 가야되,todo,2
+내일 일정,todo,2
+내일 일정 보여줘,todo,2
+이번주 주말 일정 보여줘,todo,2
+이번주 토요일날 일정 보여줘,todo,2
+이번주 일요일 일정 보여줘,todo,2
+모레 일정 좀 알려줘,todo,2
+금요일 일정 좀 알려줄래,todo,2
+목요일에 해야 할 일 좀 알려줘,todo,2
+오늘의 todo 보여줘,todo,2
+내일 todo 보여줘,todo,2
+내일 헬스는 몇시에 가야되,todo,2
+오늘 헬스 몇시에 가야되,todo,2
+오늘 내가 뭘 먹엇지,todo,2
+어제 내가 한 일 좀 알려줄래,todo,2
+어제 내가 간 장소 좀 알려줘,todo,2
+내일 내가 가야 할 장소 좀 알려줘,todo,2
+오늘 가야 할 장소 좀 알려줘,todo,2
+야 오늘 뭐 해야 돼,todo,2
+오늘 뭐 해야 돼,todo,2
+내가 해야 될 일 뭐야,todo,2
+내일 해야 될 일이 뭐야,todo,2
+모레 내가 해야 될 일이 뭐야,todo,2
+이번주 수요일의 todo 목록 보여줘,todo,2
+오늘의 todo 리스트 보여줘,todo,2
+오늘 todo 리스트,todo,2
+이번주 todo 리스트 보여줘,todo,2
+오늘 투두 보여줘,todo,2
+내일 투두 리스트 보여줘,todo,2
+투두 리스트 보여줘,todo,2
+todo 리스트 보여줘,todo,2
+이번달 todo 보여줘,todo,2
+일요일에 무슨 약속 있는지 알려줄래,todo,2
+토요일에 무슨 약속 있는지 알려줄래,todo,2
+수요일에 무슨 약속 있는지 알려줄래,todo,2
+월요일에 무슨 약속 있는지 알려줘,todo,2
+야 할 일 보여줘,todo,2
+야 오늘 해야 할 일 보여줘,todo,2
+내일 내가 해야 할 일이 뭐야,todo,2
+어제 내가 어디갓다 왔니,todo,2
+오늘 점심에 먹은데 알려줘,todo,2
+내가 오늘 뭘 해야 될까,todo,2
+내일 내가 뭘 해야 될까,todo,2
+모레 내가 뭘 해야 될지 알려줄래,todo,2
+이번주 금요일날 투두 리스트 보여줄래,todo,2
+이번주 목요일날 투두 리스트 보여줄래,todo,2
+이번주 토요일날 약속 좀 알려줘,todo,2
+이번주 일요일날 약속 좀 알려줄래,todo,2
+월요일 약속 좀 알려줄래,todo,2
+화요일 약속 좀 알려줄래,todo,2
+수요일 약속 좀 알려줄래,todo,2
+목요일 약속 좀 알려줄래,todo,2
+금요일 약속 좀 알려줄래,todo,2
+토요일 약속 좀 알려줄래,todo,2
+일요일 약속 좀 알려줄래,todo,2
+수요일날 가야 될 약속 알려줘,todo,2
+내일 모레 무슨 약속 있는지 알려줄래,todo,2
+모레 내가 할 일 좀 알려줘,todo,2
+지금 내가 해야 할 일이 뭐야,todo,2
+todo 목록,todo,2
+오늘 7시에 뭐해야 되,todo,2
+오늘 내가 무슨 일을 해야 하나 알려줄래,todo,2
+내일 내가 무슨 일을 해야 하나 알려줄래,todo,2
+모레 내가 무슨 일을 해야 하나 알려줄래,todo,2
+좀 있다 어떤 스케줄이 있어,todo,2
+오늘 스케줄 좀 알려줘,todo,2
+내일 스케줄 좀 알려줘,todo,2
+모레 스케줄 어때,todo,2
+나의 이번주 스케줄 말해줘,todo,2
+오늘 스케줄 알려줘,todo,2
+내일 스케줄 알려줘,todo,2
+이번달 중요 스케줄 좀 알려줘,todo,2
+오늘의 해야 할 일 보여줘,todo,2
+내 오늘 스케줄 알려줘,todo,2
+내 오늘 스캐줄,todo,2
+야 내 할 일 알려줘봐,todo,2
+오늘 해야 할일 알려줘봐,todo,2
+내가 할 일이 뭐야,todo,2
+아니 오늘 내가 뭐해야 되지,todo,2
+todo 리스트 좀 보여줄래,todo,2
+오늘 내가 해야 할 일이 뭔데,todo,2
+내일 내가 해야 할 일이 뭔데,todo,2
+이번주 수요일 todo 알려줘,todo,2
+이번주 목요일 todo 알려줘,todo,2
+이번주 금요일 todo 알려줘,todo,2
+이번주 화요일 todo 알려줘,todo,2
+일요일 todo 알려줘,todo,2
+이번주 토요일 todo 알려줘,todo,2
+다음주 월요일 스케줄 좀 알려줄래,todo,2
+다음주 화요일 스케줄 좀 알려줄래,todo,2
+다음주 수요일 스케줄 좀 알려줄래,todo,2
+다음주 목요일 스케줄 좀 알려줄래,todo,2
+다음주 금요일 스케줄 좀 알려줄래,todo,2
+다음주 토요일 스케줄 좀 알려줄래,todo,2
+다음주 일요일 스케줄 좀 알려줄래,todo,2
+화요일 오후에 스케줄 말해줘,todo,2
+수요일 오후에 스케줄 말해줘,todo,2
+목요일 오후에 스케줄 말해줘,todo,2
+금요일 오후에 스케줄 말해줘,todo,2
+토요일 오후에 스케줄 말해줘,todo,2
+일요일 오후에 스케줄 말해줘,todo,2
+월요일 해야 할 일 알려줘,todo,2
+화요일 해야 할 일 알려줘,todo,2
+수요일 해야 할 일 알려줘,todo,2
+목요일 해야 할 일 알려줘,todo,2
+금요일 해야 할 일 알려줘,todo,2
+토요일 해야 할 일 알려줘,todo,2
+일요일 해야 할 일 알려줘,todo,2
+내일 오전에 어떤 스케줄이 있지,todo,2
+토요일 오전 스케줄 말해줘,todo,2
+토요일 오후 스케줄 말해줘,todo,2
+일요일 오전 스케줄 말해줘,todo,2
+일요일 오후 스케줄 말해줘,todo,2
+내일 저녁 스케줄 알려줘,todo,2
+모레 저녁 스케줄 알려줘,todo,2
+이번주 스케줄 리스트 알려줘,todo,2
+다음주 스케줄 리스트 알려줘,todo,2
+오늘 저녁 일정 좀 알려줘,todo,2
+오늘 오전 일정 좀 알려줘,todo,2
+오늘 오후 일정 좀 알려줘,todo,2
+모레 오전 일정 좀 알려줘,todo,2
+모레 오후 일정 알려줘,todo,2
+일정 알려줘,todo,2
+어이 오늘 일정 뭐야,todo,2
+내일 일정 뭔지 알려줘,todo,2
+일정 좀 알려줄래 지금 어디가야 되는지,todo,2
+일정,todo,2
+오늘 스케줄,todo,2
+오늘 할 일,todo,2
+이번주 금요일날 할 일 뭐지,todo,2
+이번주 화요일날 할 일 뭐지,todo,2
+이번주 수요일날 할 일 뭐지,todo,2
+이번주 수요일에 일정이 있나,todo,2
+오늘 일정 있나,todo,2
+오늘 todo 있어,todo,2
+내일 스케줄이 있나,todo,2
+내일 스케줄 있어 잇다면 알려줄래,todo,2
+이번주 목요일 날 내가 해야 될 일이 뭔지 알려줄래,todo,2
+이번주 금요일 날 내가 해야 될 일이 뭔지 알려줄래,todo,2
+이번주 토요일 날 내가 해야 될 일이 뭔지 알려줄래,todo,2
+이번주 일요일 날 내가 해야 될 일이 뭔지 알려줄래,todo,2
+아니 오늘의 일정 좀 알려줘봐,todo,2
+내꺼 일정 중에 비트캠프가 있나,todo,2
+내일 일정 중에 운동 일정이 있어,todo,2
+토요일날 점심에 약속이 있나,todo,2
+토요일날 저녁에 약속이 있나,todo,2
+일요일 저녁 스케줄 있어,todo,2
+토요일 저녁 스케줄 있어,todo,2
+나 금요일 오후에 일정이 있나,todo,2
+나 화요일 오후에 일정이 있나,todo,2
+오늘 저녁에 어디 가야되,todo,2
+일정 좀 알려줘,todo,2
+스케줄 좀 알려줘,todo,2
+할 일 좀 알려줘,todo,2
+todo 좀 알려줘,todo,2
+이번주 금요일 약속 뭐가 있을까,todo,2
+내일 약속이 있니,todo,2
+이번주 중요한 약속 좀 알려줘,todo,2
+내일 약속 얼마나 있어,todo,2
+모레 약속 있어,todo,2
+모레 일정 있니,todo,2
+오늘 일정 보여줘,todo,2
+일정이 어떤게 있니,todo,2
+일정 목록 좀,todo,2
+일정이 어떻게 되,todo,2

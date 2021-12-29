@@ -1,0 +1,12 @@
+﻿Django==3.2.9
+djangorestframework==3.12.4
+mysqlclient==2.1.0
+sphinx
+django-rest-knox
+django-cors-headers
+konlpy
+icecream
+pandas
+googlemaps
+tweepy==3.10.0
+tensorflow==2.7.0

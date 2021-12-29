@@ -1,0 +1,16 @@
+version: '3'
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: wkd1598/janginsung-django-chatbot:v2
+    container_name: backend-chatbot
+    command: "python manage.py runserver 0.0.0.0:8004"
+    restart: always
+    ports:
+      - "8004:8004"
+    volumes:
+      - .:/chatbot
+    expose:
+      - "8004"
