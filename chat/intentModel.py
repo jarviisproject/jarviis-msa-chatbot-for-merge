@@ -17,7 +17,7 @@ class IntentModel:
         # 형태소 분석
         pos = self.p.pos(question)
 
-        # 문장 내 키워드 추출(불용어 제거)\
+        # 문장 내 키워드 추출(불용어 제거)
         keywords = self.p.get_keywords(pos, without_tag=True)
         sequences = [self.p.get_wordidx_sequence(keywords)]
 
