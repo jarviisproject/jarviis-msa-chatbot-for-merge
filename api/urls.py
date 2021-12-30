@@ -16,10 +16,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-from api.views import HelloAPI
+from api.views import ChatbotApiServer
 
 urlpatterns = [
-    path('', HelloAPI),
-    path('api/hello', HelloAPI),
+    path('', ChatbotApiServer),
     path('api/chat', include('chat.url')),
 ]
