@@ -13,15 +13,15 @@ def weather_question(question):
     w = Weather()
     q = question['chatAnswer']
     if "오늘" in q:
-        today = dt.datetime.now() + dt.timedelta(days=1)
+        today = dt.datetime.now() + dt.timedelta()
         tom = str(today)[0:4] + str(today)[5:7] + str(today)[8:10]
         return w.weather_pre()[tom]
     elif "내일" in q:
-        today = dt.datetime.now() + dt.timedelta(days=2)
+        today = dt.datetime.now() + dt.timedelta(days=1)
         tom = str(today)[0:4] + str(today)[5:7] + str(today)[8:10]
         return w.weather_pre()[tom]
     elif "모레" in q:
-        today = dt.datetime.now() + dt.timedelta(days=3)
+        today = dt.datetime.now() + dt.timedelta(days=2)
         tom = str(today)[0:4] + str(today)[5:7] + str(today)[8:10]
         return w.weather_pre()[tom]
     else:

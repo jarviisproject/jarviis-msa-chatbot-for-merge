@@ -16,8 +16,8 @@ class Intent_model_create():
         question = data['Q'].tolist()
         intent = data['label'].tolist()
 
-        p = Preprocess(word2index_dic='./data/chatbot3_dict.bin',
-                       userdic='./data/user_nng.tsv')
+        p = Preprocess(word2index_dic='./model/chatbot3_dict.bin',
+                       userdic='./model/user_nng.tsv')
 
         # 단어 시퀸스 생성
         sequences = []
@@ -29,6 +29,7 @@ class Intent_model_create():
 
         # 단어 인덱스 시퀸스 백터 생성
         # 단어 시퀸스 백터 크기
+        print(sequences)
         padded_seqs = preprocessing.sequence.pad_sequences(sequences, maxlen=self.MAX_SEQ_LEN, padding='post')
 
         # 학습용, 검증용, 테스트용 데이터셋 생성
